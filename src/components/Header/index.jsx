@@ -6,7 +6,7 @@ const Header = () => {
         <h1>Daiara Barroso</h1>
         <nav>
           <ul>
-            <li><a href="#about">Sobre</a></li>
+            <li><a href="#description">Sobre</a></li>
             <li><a href="#repository">Projetos</a></li>
             <li><a href="#contact">Contato</a></li>
           </ul>
