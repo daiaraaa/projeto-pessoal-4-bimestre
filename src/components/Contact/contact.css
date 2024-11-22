@@ -1,0 +1,56 @@
+.contact {
+  background-color: #240725;
+  color: white;
+  padding: 40px 0;
+  text-align: center;
+  }
+  
+.contact p {
+  font-size: 1.2em;
+  }
+
+.contact {
+  padding: 1rem 0;
+   
+  }
+  
+.contact h2 {
+  color: white;
+  font-size: 30px;
+  }
+.redes {
+  margin-top: 1.5rem;
+  }
+  
+.redes-button {
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+  width: 120px;
+  margin-right: 10px;
+  border-radius: 8px;
+  color: white;
+  font-weight: bold;
+  display: inline-block;
+    
+  }
+
+.redes-button:hover{
+  background-color: white;
+  }
+
+.github {
+  background-color: black;
+  }
+  
+.instagram {
+  background-color: black;
+  }
+  
+.redes-button:hover {
+  opacity: 0.8;
+  }
+
+hr {
+  border: none;
+  margin: 3px 0; 
+}
