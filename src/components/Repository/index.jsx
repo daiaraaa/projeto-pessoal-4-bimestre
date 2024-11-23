@@ -9,7 +9,7 @@ export default function Repository() {
           <div className="repository-grup">
             <div className="repository-proj">
               <h3>Projeto: Primeiro site em react</h3>
-              <p>Um exemplo de site em react.</p>
+              <p>O meu primeiro site em react.</p>
               <a 
                 href="https://github.com/daiaraaa/projeto-1-primeiro-site-em-react" target="_blank" rel="noopener noreferrer"className="repository-link"
               > Ver no GitHub </a>
