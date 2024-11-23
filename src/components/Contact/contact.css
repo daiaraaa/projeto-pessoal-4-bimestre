@@ -28,6 +28,7 @@
   width: 120px;
   margin-right: 10px;
   border-radius: 8px;
+  transition: .3s;
   color: white;
   font-weight: bold;
   display: inline-block;
@@ -35,15 +36,15 @@
   }
 
 .redes-button:hover{
-  background-color: white;
+  background: linear-gradient(109deg, #4c3968,#322744, #000000);
   }
 
 .github {
-  background-color: black;
+  background: linear-gradient(109deg, #000000,#322744, #4c3968);
   }
   
 .instagram {
-  background-color: black;
+  background: linear-gradient(109deg, #000000,#322744, #4c3968);
   }
   
 .redes-button:hover {
