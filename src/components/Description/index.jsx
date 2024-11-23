@@ -4,7 +4,7 @@ export default function Description() {
   return (
     <section id="description" className="description">
       <div className="container">
-          <p>Bem vindo, sou estudante e faço curso de desenvolvimento de sistemas veja alguns dos meus projetos abaixos.</p>
+          <p>Seja bem-vindo, sou estudante e faço o curso de desenvolvimento de sistemas, veja alguns dos meus projetos abaixos.</p>
       </div>
     </section>
   )
