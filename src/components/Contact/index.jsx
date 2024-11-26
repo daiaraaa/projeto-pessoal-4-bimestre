@@ -5,7 +5,7 @@ export default function Contact () {
       <section id="contact" className="contact">
         <div className="container">
           <p>Email: daiarabarroso09@gmail.com</p>
-          <hr></hr>
+          <br></br>
           <p>Telefone: +55 85 99433-4741</p> 
           
       <div className="redes">
