@@ -16,7 +16,7 @@ export default function Repository() {
             </div>
 
             <div className="repository-proj">
-              <h3>Projeto: Criando um componente em React</h3>
+              <h3>Projeto: Criando um componente em react</h3>
               <p>Criando um componente em react.</p>
               <a 
                 href="https://github.com/daiaraaa/projeto3-criando-um-componente-profile"  target="_blank" rel="noopener noreferrer" className="git"
