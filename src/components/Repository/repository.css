@@ -4,13 +4,13 @@
   font-size: 18px;
   }
   
-.repository-grup {
+.repogrup {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
   }
 
-.repository-proj {
+.repoproj {
   width: 30%;
   background-color: #240725;
   padding: 30px;
@@ -18,7 +18,7 @@
   margin-bottom: 20px;
   }
   
-.repository-proj h3 {
+.repoproj h3 {
   margin-bottom: 10px;
   }
   
