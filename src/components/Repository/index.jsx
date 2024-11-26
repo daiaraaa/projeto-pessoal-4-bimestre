@@ -31,7 +31,7 @@ export default function Repository() {
               > Ver no GitHub </a>
             </div>
 
-        <div className="reposproj">
+        <div className="repoproj">
             <h3>Projeto: Site Black Clover</h3>
             <p>Um site que fala um pouco sobre o esquadrão dos Touros Negros do anime Black Clover. </p>
             <a 
